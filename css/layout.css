@@ -117,10 +117,10 @@ body, html {
 	clear: both;
 }
 .ba-row + .ba-row{
-	margin-top: 20px;
+	margin-top: 30px;
 }
 .ba-row{
-	margin-left: -20px;
+	margin-left: -30px;
 }
 
 .ba-row--collapse {
@@ -135,7 +135,7 @@ body, html {
 
 .ba-row > [class*="ba-col-"]{
 	float: left;
-	padding-left: 20px;
+	padding-left: 30px;
 }
 .ba-col-12{
 	width: 100%;
